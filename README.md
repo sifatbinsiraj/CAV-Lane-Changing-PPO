@@ -1,8 +1,7 @@
 # A Behavior-Aware, Lane-Semantic, and Geometry-Informed Multi-Agent Reinforcement Learning Framework for Cooperative Lane-Changing in CAVs
 
 **Author:** Md Sifat Bin Siraj  
-**Affiliation:** Southern Illinois University Edwardsville  
-**Target Journal:** IEEE Transactions on Intelligent Transportation Systems (Q1)  
+**Affiliation:** Southwest Jiaotong University (SWJTU)   
 **Date:** April 2026
 
 ---
