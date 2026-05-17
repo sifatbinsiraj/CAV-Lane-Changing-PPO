@@ -6,11 +6,11 @@ Lane-Semantic Encoding (N2), and Geometry-Aware Safety Filter (N3)
 Paper : "A Behavior-Aware, Lane-Semantic, and Geometry-Informed
          Multi-Agent Reinforcement Learning Framework for Cooperative
          Lane-Changing in CAVs"
-Journal: IEEE Transactions on Intelligent Transportation Systems (Q1)
+J
 Dataset: CitySim FreewayC — I-4 Freeway, Orlando, FL
          https://github.com/ozheng1993/UCF-SST-CitySim-Dataset
 
-Author : Saifullah Mahmud
+Author : Md Sifat Bin Siraj
 Date   : April 2026
 
 =============================================================================
